@@ -38,8 +38,8 @@ def get_tracks_data(access_token, track_ids):
     return track_response
 
 # Credenciais da API do Spotify
-client_id = '85bb7657643f472e8b0a85eef079ba77'
-client_secret = '55fbb0a3af614288b0168b2bceba5cd0'
+client_id = ''
+client_secret = ''
 
 # Streamlit app
 st.title("Análise Comparativa de Álbuns - Marília Mendonça 🎵")
